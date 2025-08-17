@@ -4,3 +4,4 @@ Arrays and String Interview Questions
 2. Is Subsequence. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/IsSubSequence/IsSubSequence/src/Main.java)
 3. Reversing an array. [Code link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/ReverseAnArray/ReverseArray/src/Main.java)
 4. Two sum problem.  [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/TwoSumProblem/TwoSumProblem/src/Main.java)
+5. Merge Sorted arrays. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/MergeSortedArrays/MergeSortedArrays/src/Main.java)
