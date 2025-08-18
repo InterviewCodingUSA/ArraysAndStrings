@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         // Example usage of squareOfSortedArrays
-        int[] input = {-4,-1,0,3,10}; // Example sorted array (ascending order)
+        int[] input = {-7,-3,2,3,11}; // Example sorted array (ascending order)
         int[] result = squareOfSortedArrays(input);
 
         // Print the result
@@ -46,7 +46,7 @@ public class Main {
         int end = arr.length - 1;
 
         // Process until all elements are squared
-        while (index > 0 ) {
+        while (index >= 0 ) {
             int val =0;
             if (Math.abs(arr[start]) < Math.abs(arr[end])) {
                 val = arr[end];
