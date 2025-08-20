@@ -20,6 +20,9 @@ public class Main {
         // Initialize start pointer of the sliding window
         int start = 0;
 
+        int maxStartIndex = 0;
+        int maxEndIndex = 0;
+
         // Iterate through the array with end pointer
         for (int end = 0; end < arr.length; end++) {
             // Add current element to window sum
@@ -32,9 +35,16 @@ public class Main {
                 start++;
             }
 
+            if(maxSum < currSum){
+                maxStartIndex = start;
+                maxEndIndex = end;
+            }
+
             // Update maxSum if current sum is larger
             maxSum = Math.max(maxSum, currSum);
         }
+        System.out.println("Max Start Index = " + maxStartIndex);
+        System.out.println("Max End Index = " + maxEndIndex);
 
         // Return the largest sum found that's less than k
         return maxSum;
