@@ -8,4 +8,5 @@ Arrays and String Interview Questions
 6. Sorted squared array. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/SquareOfSortedArrays/SquareOfSortedArrays/src/Main.java)
 7. Largest Sum of sub array in an array where sum is less than K. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/LargestSubarraySumLessThanK/LargestSubarraySumLessThanK/src/Main.java)
 8. Max substring of 1's when you can flip atmost one zero. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/FlipOneZeroToGetMaxOnes/FlipOneZeroToGetMaxOnes/src/Main.java)
-9. Number of subarrays product less than k. [Code link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/SubarrayProductLessThanK/SubArrayProductLessThanK/src/Main.java) 
+9. Number of sub arrays product less than k. [Code link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/SubarrayProductLessThanK/SubArrayProductLessThanK/src/Main.java)
+10. Max sum subarray of size K. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/MaxSubarraySumOfFixedSize/MaxSubarraySumOfFixedSize/src/Main.java)
