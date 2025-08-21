@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        int[] arr = {3,-1,4,12, -8, 5,6};
+        int[] arr = {1,12,-5,-6,50,3};
         System.out.println(maxAverageSubArray(arr, 4));
     }
 
@@ -14,7 +14,7 @@ public class Main {
         float currentAverage  = (float)currentSum/k;
         float maxAverage = currentAverage;
         for(int i = k ; i < arr.length; i ++){
-            currentSum -= arr[i-1];
+            currentSum -= arr[i-k];
             currentSum += arr[i];
             currentAverage = (float)currentSum/k;
             maxAverage = Math.max(currentAverage, maxAverage);
