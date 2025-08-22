@@ -11,3 +11,4 @@ Arrays and String Interview Questions
 9. Number of sub arrays product less than k. [Code link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/SubarrayProductLessThanK/SubArrayProductLessThanK/src/Main.java)
 10. Max sum sub array of size K. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/MaxSubarraySumOfFixedSize/MaxSubarraySumOfFixedSize/src/Main.java)
 11. Max average of sub array of size K. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/MaxAverageSubarray/MaxAverageSubarray/src/Main.java)
+12. Num ways to split array so left sum is greater than right sum. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/NumWaystoSplitArray/NumWaystoSplitArray/src/Main.java)
