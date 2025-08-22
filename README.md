@@ -22,3 +22,4 @@ Arrays and String Interview Questions
 20. Move Zeros to end while maintaining sequence. [Code link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/MoveZerosToEnd/MoveZerosToEnd/src/Main.java)
 21. Reverse Prefix of word. [Code link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/ReversePrefixOfWord/ReversePrefixOfWord/src/Main.java)
 22. Minimum sub array length where sum is greater than target. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/MinimumSubArrayLength/MinimumSubArraylength/src/Main.java)
+23. Max vowel count in subset of size k. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/MaxVowelsInSubStringOfGivenLength/MaxVowelsInSubStringOfGivenLength/src/Main.java)
