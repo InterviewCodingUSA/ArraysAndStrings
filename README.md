@@ -14,3 +14,4 @@ Arrays and String Interview Questions
 12. Num ways to split array so left sum is greater than right sum. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/NumWaystoSplitArray/NumWaystoSplitArray/src/Main.java)
 13. Running sum of an array. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/RunningSumArray/RunnignSumArray/src/Main.java)
 14. Min value to get positing sum of an array. [Code Link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/MinValueToGetPositiveSum/MinValueToGetPositiveSum/src/Main.java)
+15. Averages array of size k on both sides. [Code link](https://github.com/InterviewCodingUSA/ArraysAndStrings/blob/main/GetAveragesArrayOfSizeKOnBothSides/GetAveragesArrayOfSizeKOnBothSides/src/Main.java)
